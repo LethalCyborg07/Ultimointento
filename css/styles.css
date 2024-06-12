@@ -1,0 +1,13 @@
+.contenedor_limite{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.boton{
+    background-color: red;
+}
+
+section{
+    margin: 25px 25px;
+}
